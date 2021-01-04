@@ -11,6 +11,13 @@ const Items = (props) => {
         <Layout>
 
             <h1>Items</h1>
+            <ul>
+                <h2>Liste des Categories</h2>
+                <li>Culture</li>
+                <li>Geographie</li>
+                <li>Social</li>
+                <li>Economique</li>
+            </ul>
         </Layout>
         </>
     )
